@@ -7,7 +7,9 @@ copy it in joomla's plugins/content directory
 
 go to joomla's administrator and click on extension manager 
 
-now select discover a discover tab and install tab will appear, install it.
+now select discover a discover tab and install tab will appear.
+
+after clicking on appeared discover tab it will show the list of newly discoverd plugins. select and install it.
 
 enable joomla_chat from plugin manager.
 
