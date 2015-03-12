@@ -1,6 +1,8 @@
 
 [for jooomla version 3.4.0 ]
 
+It will need an authorized chat key.
+
 unzip the download rename it joomla_chat 
 
 copy it in joomla's plugins/content directory 
